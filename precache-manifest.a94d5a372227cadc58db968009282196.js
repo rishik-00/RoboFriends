@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d0b02529b7d4aaa5014618d3950e7441",
+    "revision": "db0f2bedf837862950472304a09f1c5c",
     "url": "/RoboFriends/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RoboFriends/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "76bed1abc4a0f650425b",
-    "url": "/RoboFriends/static/css/main.989ab452.chunk.css"
+    "revision": "65da42ee144a268260e3",
+    "url": "/RoboFriends/static/css/main.2c21afd1.chunk.css"
   },
   {
     "revision": "c016c2724503137269b8",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RoboFriends/static/js/2.88b08eb1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "76bed1abc4a0f650425b",
+    "revision": "65da42ee144a268260e3",
     "url": "/RoboFriends/static/js/main.a634e88f.chunk.js"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RoboFriends/static/js/runtime-main.288d7cdc.js"
   },
   {
-    "revision": "b6e9bb37f4e5cd1059e6ebb846a6d40e",
-    "url": "/RoboFriends/static/media/SEGA LOGO FONT.b6e9bb37.woff"
+    "revision": "12a3db8ba7f5423327bb12aed3c41977",
+    "url": "/RoboFriends/static/media/SEGA.12a3db8b.woff"
   }
 ]);
