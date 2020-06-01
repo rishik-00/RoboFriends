@@ -1,10 +1,10 @@
 @font-face {
-	font-family: 'SEGA LOGO FONT';
-	src: url(./SEGA LOGO FONT.woff);
+	font-family: 'SEGA';
+	src: url(./SEGA.woff);
 }
 
 h1 {
-	font-family: 'SEGA LOGO FONT';
+	font-family: 'SEGA';
 	font-weight: 200;
 	color: #0ccacb;
 }
